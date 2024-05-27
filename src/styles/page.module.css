@@ -1,0 +1,15 @@
+.main {
+    width: 100%;
+    min-height: 50vh;
+    max-width: 800px;
+    border: 1px red solid;
+    align-self: center;
+        
+}
+
+
+/* Mobile */
+@media (max-width: 700px) {}
+
+/* Tablet and Smaller Desktop */
+@media (min-width: 701px) and (max-width: 1120px) {}
